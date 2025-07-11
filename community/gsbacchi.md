@@ -1,4 +1,4 @@
-# Olá, meu nome é Giovana ✨
+## Olá, meu nome é Giovana ✨
 
 *Estou de mudança de carreira aos 27 anos!*  	&#128510; &#128525; 
 
