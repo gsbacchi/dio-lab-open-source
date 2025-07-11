@@ -1,9 +1,13 @@
 # Giovana
 Olá! meu nome é Gi estou estudando Backend Python na DIO
 
-*Estou de mudança de carreira!*  	&#128510; &#128525;
+*Estou de mudança de carreira!*  	&#128510; &#128525; 
 
-
+**Curiosidades**
+- Atualmente faço Análise e Desenvolvimento de Sistemas 👩🏻‍💻
+- Estágio em Suporte de T.I
+- Aspirante a dev
+- Morei 5 anos no exterior, voltei para dedicar aos estudos e minha carreira 🌍
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsbacchi/)
